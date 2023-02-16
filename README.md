@@ -4,7 +4,7 @@ simlpe discord webhooks deleter
 ## Features & screenshots
 
 > Exemple
-<img src="exemplekynzayweb.gif" width="665" height="369"/> 
+<img src="demo.gif" width="665" height="369"/> 
 
 ## Using
 > First
