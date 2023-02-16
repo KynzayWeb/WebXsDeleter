@@ -1,0 +1,2 @@
+py WebXsDeleter.py
+pause
